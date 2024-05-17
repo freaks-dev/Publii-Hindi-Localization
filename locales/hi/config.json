@@ -1,0 +1,8 @@
+{
+	"name": "Hindi",
+	"version": "1.0.0",
+	"author": "freaks-dev",
+	"publiiSupport": "0.45.0",
+    "momentLocale": "en",
+    "wysiwygTranslation": false
+}
