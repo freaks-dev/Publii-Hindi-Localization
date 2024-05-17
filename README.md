@@ -1,2 +1,7 @@
-# Publii-Hindi-Localization
-Publii हिंदी भाषा पैक। Publii UI Hindi Translation
+# Publii हिन्दी अनुवाद
+Publii हिंदी भाषा पैक। Publii UI Hindi Translation.
+
+## अनुवाद में सुधार
+अनुवाद को बेहतर बनाने और पूरा करने में मदद के लिए आपका स्वागत है।
+आप इस रिपॉजिटरी में Publii UI का हिंदी अनुवाद प्राप्त कर सकते हैं।
+वर्तमान अनुवाद में अभी तक WYSIWYG अनुवाद शामिल नहीं है।
